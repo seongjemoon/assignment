@@ -1,2 +1,8 @@
-# assignment
-git_assignment
+# 협업을 위한 git 개인 과제 계획
+1. 먼저 나의 레파지토리를 만든다(과제수행을 위한 일부)
+2. 레파지토리를 git init으로 초기화 시켜준다.
+3. Brucnh를 활용해 skills및, about 브런치를 각각 만들어준다.
+4. 브런치 명령어를 이용해 future/about으로 변경하고 간단한 자기소개를 touch로 txt파일을 생성후 vim으로 작성해준다
+5. skills도 위와 똑같이 만들어 준다.
+6. 다시 about 및 skills를 각각 이동해 브런치를 깃허브에 push명령어를 사용하여 업로드 한다.
+7. merge를 사용해 합쳐 준뒤 pull로 가져와서 인텔리j의 메인과 합쳐준다. 
